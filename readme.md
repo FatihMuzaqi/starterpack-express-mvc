@@ -7,7 +7,7 @@ git clone https://github.com/FatihMuzaqi/express-mvc.git
 2. Masuk ke direktori 
 ````
 
-cd STARTERPACK-EXPRESS-MVC
+cd express-mvc
 ````
 
 3. Instal node module
