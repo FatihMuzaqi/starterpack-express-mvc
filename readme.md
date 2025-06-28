@@ -1,7 +1,7 @@
 1. git clone:
 
 ````
-git clone https://github.com/FatihMuzaqi/express-mvc.git
+git clone https://github.com/FatihMuzaqi/starterpack-express-mvc.git
 ````
 
 2. Masuk ke direktori 
