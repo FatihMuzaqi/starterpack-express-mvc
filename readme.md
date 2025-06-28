@@ -1,7 +1,7 @@
 1. git clone:
 
 ````
-git clone https://github.com/CapstoneProjectDBS/CapstoneProjectDBS.git
+git clone https://github.com/FatihMuzaqi/express-mvc.git
 ````
 
 2. Masuk ke direktori 
